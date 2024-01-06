@@ -1,0 +1,136 @@
+{
+  "series": [
+    {
+      "id": "1",
+      "title": "Guardian: The Lonely and Great God",
+      "genre": "Fantasy",
+      "category": "Already Watched",
+      "language": "Korean",
+      "plot": "Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Goblin_Poster.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Uncanny Counter",
+      "genre": "Action",
+      "category": "Currently Watching",
+      "language": "Korean",
+      "plot": "Demon hunters pose as workers in a noodle shop in an effort to catch evil spirits hoping to find eternal life.",
+      "imageUrl": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbJIAbkjHS4QoHR0rs2bMGYAZLRYbWwpDFdg57FzmnBhyB3rZJ7FL-9HWUPvFWCj-UHxTJRBPuFzTdy6vEBmMmg0UvFJnuiB83AW.jpg?r=f44"
+    },
+    {
+      "id": "3",
+      "title": "Destined With You",
+      "genre": "Fantasy",
+      "category": "Currently Watching",
+      "language": "Korean",
+      "plot": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom.",
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/08/c2133-16914877272532-1920.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Modern Family",
+      "genre": "Sit-Com",
+      "category": "Currently Watching",
+      "language": "English",
+      "plot": "Three modern-day families from California try to deal with their kids, quirky spouses and jobs in their own unique ways, often falling into hilarious situations.",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e85a0db8f33b66cf292717a5dddfa5a79c4daa59916521470df71240bd6fb60.jpg"
+    },
+    {
+      "id": "5",
+      "title": "See You In My 19th Life",
+      "genre": "Fantasy",
+      "category": "Currently Watching",
+      "language": "Korean",
+      "plot": "Ban Ji-eum, who can remember all her past lives, sets out to reconnect with a lost love from her 18th life, which was cut tragically short.",
+      "imageUrl": "https://filmfare.wwmindia.com/thumb/content/2023/jun/seeyouinmy19thlife41685691956.jpg?width=1200&height=900"
+    },
+    {
+      "id": "7",
+      "title": "Tomorrow",
+      "genre": "Fantasy",
+      "category": "Want To Watch",
+      "language": "Korean",
+      "plot": " Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions.",
+      "imageUrl": "https://cdn.whats-on-netflix.com/wp-content/uploads/2022/02/14090555/tomorrow-netflix-k-drama-april-2022.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Lucifer",
+      "genre": "Mystery",
+      "category": "Want To Watch",
+      "language": "English",
+      "plot": "Lucifer is faced with another surprise when he meets an intriguing homicide detective named Chloe, who appears to possess an inherent goodness -- unlike the worst of humanity, to which he is accustomed. Suddenly, Lucifer starts to wonder if there is hope for his soul.",
+      "imageUrl": "https://images.radiox.co.uk/images/239833?width=1200&crop=4_3&signature=bY-97zMMMCbQTZ5wA0MdBlYfJS4="
+    }
+  ],
+  "alreadyWatched": [
+    {
+      "id": "1",
+      "title": "Guardian: The Lonely and Great God",
+      "genre": "Fantasy",
+      "category": "Already Watched",
+      "language": "Korean",
+      "plot": "Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Goblin_Poster.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Destined With You",
+      "genre": "Fantasy",
+      "category": "Already Watched",
+      "language": "Korean",
+      "plot": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom.",
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/08/c2133-16914877272532-1920.jpg"
+    },
+    {
+      "id": "5",
+      "title": "See You In My 19th Life",
+      "genre": "Fantasy",
+      "category": "Already Watched",
+      "language": "Korean",
+      "plot": "Ban Ji-eum, who can remember all her past lives, sets out to reconnect with a lost love from her 18th life, which was cut tragically short.",
+      "imageUrl": "https://filmfare.wwmindia.com/thumb/content/2023/jun/seeyouinmy19thlife41685691956.jpg?width=1200&height=900"
+    },
+    {
+      "id": "7",
+      "title": "Tomorrow",
+      "genre": "Fantasy",
+      "category": "Already Watched",
+      "language": "Korean",
+      "plot": " Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions.",
+      "imageUrl": "https://cdn.whats-on-netflix.com/wp-content/uploads/2022/02/14090555/tomorrow-netflix-k-drama-april-2022.jpg"
+    }
+  ],
+  "currentlyWatching": [
+    {
+      "id": "2",
+      "title": "The Uncanny Counter",
+      "genre": "Action",
+      "category": "Currently Watching",
+      "language": "Korean",
+      "plot": "Demon hunters pose as workers in a noodle shop in an effort to catch evil spirits hoping to find eternal life.",
+      "imageUrl": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbJIAbkjHS4QoHR0rs2bMGYAZLRYbWwpDFdg57FzmnBhyB3rZJ7FL-9HWUPvFWCj-UHxTJRBPuFzTdy6vEBmMmg0UvFJnuiB83AW.jpg?r=f44"
+    },
+    {
+      "id": "4",
+      "title": "Modern Family",
+      "genre": "Sit-Com",
+      "category": "Currently Watching",
+      "language": "English",
+      "plot": "Three modern-day families from California try to deal with their kids, quirky spouses and jobs in their own unique ways, often falling into hilarious situations.",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e85a0db8f33b66cf292717a5dddfa5a79c4daa59916521470df71240bd6fb60.jpg"
+    }
+  ],
+  "wantToWatch": [
+    {
+      "id": "8",
+      "title": "Lucifer",
+      "genre": "Mystery",
+      "category": "Want To Watch",
+      "language": "English",
+      "plot": "Lucifer is faced with another surprise when he meets an intriguing homicide detective named Chloe, who appears to possess an inherent goodness -- unlike the worst of humanity, to which he is accustomed. Suddenly, Lucifer starts to wonder if there is hope for his soul.",
+      "imageUrl": "https://images.radiox.co.uk/images/239833?width=1200&crop=4_3&signature=bY-97zMMMCbQTZ5wA0MdBlYfJS4="
+    }
+  ]
+}
