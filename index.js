@@ -11,7 +11,7 @@ const router = jsonServer.router("db.json")
 const middlewares = jsonServer.defaults()
 
 // set up port for running server
-const port = 4000 || process.env.PORT
+const port = 4002 || process.env.PORT
 
 // use middlewares and router in server
 myBingeServer.use(middlewares)
